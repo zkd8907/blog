@@ -23,5 +23,9 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-alloy": "^3.9.0"
   }
 }
